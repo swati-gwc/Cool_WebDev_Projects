@@ -1,9 +1,9 @@
 # A Collection of Web Development Projects
-</br>
-This repository aims to become a collection of Awesome Web Development Projects.</br>
+<br>
+This repository aims to become a collection of Awesome Web Development Projects.<br>
 
 ### List of Projects :
-1. [Analog Clock](https://github.com/swati-gwc/Cool_WebDev_Projects/tree/main/Analog%20Clock)
+1. [Analog Clock](/Cool_WebDev_Projects/Analog Clock/)
 2. [Typing Speed](https://github.com/swati-gwc/Cool_WebDev_Projects/tree/main/Typing%20Test)
 
 ### Who can contribute? </br>
