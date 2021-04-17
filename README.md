@@ -1,17 +1,26 @@
 # A Collection of Web Development Projects
 <br>
-This repository aims to become a collection of Awesome Web Development Projects.<br>
+This repository is a collection of small but cool web development projects aimed to help beginners. <br>
 
 ### List of Projects :
 1. [Analog Clock](Analog%20Clock/) 
 2. [Typing Speed](Typing%20Test/)
 
-### Who can contribute? <br>
-Anyone can make a contribution to this repo! Either you have started out with the journey of Web Development or you already have become a pro, even a small contribution of yours will be valuable.<br> So, don't think much, FORK this repo now and get started !!<br>
-In order to contribute, put your project in a folder saved as your own name and add to the forked repo and make a pull request.<br>
-
 ### Sites to showcase your Web-Dev Projects<br>
 1. [CodePen](https://codepen.io/your-work)
+2. [Glitch](https://glitch.com/)
+3. [JSfiddle](https://jsfiddle.net/)
+
+### BLOGS and Websites to learn about Web Development
+1. [CSS-Tricks](https://css-tricks.com/)
+
+
+### Challenge or Compete to test your skills 
+1. [CSS Battle](https://cssbattle.dev/)
+2. [100DaysCSS](https://100dayscss.com/)
+
+### Who can contribute? 
+Did you find an error, a bug or do you think something is missing and needs to be added here? Open an issue and let me know! Any ideas small or big are welcome and your contributions will help a lot. So what are you waiting for? :smile:br>
 
 
 
