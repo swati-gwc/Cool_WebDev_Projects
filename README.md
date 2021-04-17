@@ -20,7 +20,7 @@ This repository is a collection of small but cool web development projects aimed
 2. [100DaysCSS](https://100dayscss.com/)
 
 ### Who can contribute? 
-Did you find an error, a bug or do you think something is missing and needs to be added here? Open an issue and let me know! Any ideas small or big are welcome and your contributions will help a lot. So what are you waiting for? :smile:br>
+Did you find an error, a bug or do you think something is missing and needs to be added here? Open an issue and let me know! Any ideas small or big are welcome and your contributions will help a lot. So what are you waiting for? :smile:
 
 
 
