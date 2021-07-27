@@ -5,7 +5,7 @@ This repository is a collection of small but cool web development projects aimed
 ### List of Projects :
 1. [Analog Clock](Analog%20Clock/) 
 2. [Typing Speed](Typing%20Test/)
-3. [GitHub Stats](GitHub%20Stats/)
+3. [GitHub Stats](GitHub%20Stats/) ([Contributed By Abhishek Singh](https://github.com/abhishek-singh31))
 
 ### Sites to showcase your Web-Dev Projects<br>
 1. [CodePen](https://codepen.io/your-work)
