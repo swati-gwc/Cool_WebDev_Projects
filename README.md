@@ -29,6 +29,7 @@ This repository is a collection of small but cool web development projects aimed
 ### Pick Color combinations for your websites
 1. [CSS Gradient](https://cssgradient.io/)
 2. [Color names sites](https://htmlcolorcodes.com/color-names/)
+3. [UI Gradients](https://uigradients.com/) [Very nice website to choose gradients]
 
 ### Who can contribute? 
 Did you find an error, a bug or do you think something is missing and needs to be added here? Open an issue and let me know! Any ideas small or big are welcome and your contributions will help a lot. So what are you waiting for? :smile:
