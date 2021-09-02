@@ -25,7 +25,7 @@ This repository is a collection of small but cool web development projects aimed
 2. [Frontend mentor](https://www.frontendmentor.io/)
 3. [Shortcuts Design](https://shortcuts.design/)
 4. [The OdinProject](https://www.theodinproject.com/)
-5. [Find port size of your website](viewportsizer.com)
+5. [Find port size of your website](https://viewportsizer.com/)
 
 ### Pick Color combinations for your websites
 1. [CSS Gradient](https://cssgradient.io/)
